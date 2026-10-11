@@ -1,0 +1,10 @@
+{
+  "lean-terminal:open-terminal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ]
+}
