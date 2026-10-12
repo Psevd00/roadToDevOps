@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11e57782a255ecf8",
+        "id": "00f917e109098e78",
         "type": "split",
         "children": [
           {
-            "id": "ac1e79257bcb7d2b",
+            "id": "ed1932da85ca9ebb",
             "type": "tabs",
+            "dimension": 55.26960784313726,
             "children": [
               {
-                "id": "4f570c4ff39f232c",
+                "id": "2a617f262cbc1d91",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -28,11 +29,12 @@
             ]
           },
           {
-            "id": "ea3f2b4b6cb3f50b",
+            "id": "9de3c176c08a79f9",
             "type": "tabs",
+            "dimension": 44.73039215686275,
             "children": [
               {
-                "id": "d39eeac1e1ed071b",
+                "id": "62ba240b2aaece89",
                 "type": "leaf",
                 "state": {
                   "type": "terminal-view",
@@ -42,7 +44,7 @@
                         "name": "Terminal 1",
                         "color": "",
                         "cwd": "C:\\Users\\vadem\\Desktop\\Education",
-                        "bufferSerial": "PS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37minit\u001b[0m \r\nInitialized empty Git repository in C:/Users/vadem/Desktop/Education/.git/\r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37mad\u001b[97;3;2md .\u001b[3D\u001b[0m\u001b[?1004h"
+                        "bufferSerial": "PS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37mstatus\u001b[0m \r\nOn branch abstractGit\r\nYour branch is up to date with 'origin/abstractGit'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/plugins/lean-terminal/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"\\320\\232\\320\\276\\320\\275\\321\\201\\320\\277\\320\\265\\320\\272\\321\\202 \\320\\277\\320\\276 Git-\\320\\270\\320\\275\\321\\201\\321\\202\\321\\200\\321\\203\\320\\272\\320\\270\\321\\206\\320\\270\\321\\217\\320\\274.md\"\r\n\u001b[37C\u001b[0m          \r\nPS C:\\Users\\vadem\\Desktop\\Education> \r\nPS C:\\Users\\vadem\\Desktop\\Education>  in what will be committed)\r\nPS C:\\Users\\vadem\\Desktop\\Education> \r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[31mng\r\n\u001b[0mPS C:\\Users\\vadem\\Desktop\\Education> \u001b[31mng\r\n\u001b[0mPS C:\\Users\\vadem\\Desktop\\Education> \u001b[31mng\r\n\u001b[0mPS C:\\Users\\vadem\\Desktop\\Education> \r\nPS C:\\Users\\vadem\\Desktop\\Education> add\" and/or \"git commit -a\")\r\nPS C:\\Users\\vadem\\Desktop\\Education> \r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37madd\u001b[0m \u001b[37m.\u001b[0m \r\nfatal: Unable to create 'C:/Users/vadem/Desktop/Education/.git/index.lock': File exists.\r\n\r\nAnother git process seems to be running in this repository, e.g.\r\nan editor opened by 'git commit'. Please make sure all processes\r\nare terminated then try again. If it still fails, a git process\r\nmay have crashed in this repository earlier:\r\nremove the file manually to continue.\r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37mcommit\u001b[0m \u001b[90m-a\u001b[0m                            \r\nfatal: Unable to create 'C:/Users/vadem/Desktop/Education/.git/index.lock': File exists.\r\n\r\nAnother git process seems to be running in this repository, e.g.\r\nan editor opened by 'git commit'. Please make sure all processes\r\nare terminated then try again. If it still fails, a git process\r\nmay have crashed in this repository earlier:\r\nremove the file manually to continue.\r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37mcommit\r\n\u001b[0mfatal: Unable to create 'C:/Users/vadem/Desktop/Education/.git/index.lock': File exists.\r\n\r\nAnother git process seems to be running in this repository, e.g.\r\nan editor opened by 'git commit'. Please make sure all processes\r\nare terminated then try again. If it still fails, a git process\r\nmay have crashed in this repository earlier:\r\nremove the file manually to continue.\r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37mstatus\u001b[0m   \r\nOn branch abstractGit\r\nYour branch is up to date with 'origin/abstractGit'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/plugins/lean-terminal/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"\\320\\232\\320\\276\\320\\275\\321\\201\\320\\277\\320\\265\\320\\272\\321\\202 \\320\\277\\320\\276 Git-\\320\\270\\320\\275\\321\\201\\321\\202\\321\\200\\321\\203\\320\\272\\320\\270\\321\\206\\320\\270\\321\\217\\320\\274.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/graph.json\r\n\u001b[8CPasted image 20261011225816.png\r\n\u001b[8CPasted image 20261011231848.png\r\n\u001b[8CPasted image 20261011231915.png\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mRemove-Item\u001b[0m \u001b[37m.git/index.lock\u001b[0m                    \r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[93mgit\u001b[0m \u001b[37mstatus\u001b[0m                 \r\nOn branch abstractGit\r\nYour branch is up to date with 'origin/abstractGit'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/plugins/lean-terminal/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"\\320\\232\\320\\276\\320\\275\\321\\201\\320\\277\\320\\265\\320\\272\\321\\202 \\320\\277\\320\\276 Git-\\320\\270\\320\\275\\321\\201\\321\\202\\321\\200\\321\\203\\320\\272\\320\\270\\321\\206\\320\\270\\321\\217\\320\\274.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/graph.json\r\n\u001b[8CPasted image 20261011225816.png\r\n\u001b[8CPasted image 20261011231848.png\r\n\u001b[8CPasted image 20261011231915.png\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nPS C:\\Users\\vadem\\Desktop\\Education> \u001b[?1004h"
                       }
                     ],
                     "activeIndex": 0
@@ -88,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Создание",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конспект по Git-инструкициям.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конспект по Git-инструкициям.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -194,7 +194,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конспект по Git-инструкициям.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,8 +221,12 @@
       "lean-terminal:Open terminal": false
     }
   },
-  "active": "d39eeac1e1ed071b",
+  "active": "62ba240b2aaece89",
   "lastOpenFiles": [
-    "Конспект по Git-инструкициям.md"
+    "Untitled.canvas",
+    "Конспект по Git-инструкициям.md",
+    "Pasted image 20261011231915.png",
+    "Pasted image 20261011231848.png",
+    "Pasted image 20261011225816.png"
   ]
 }
